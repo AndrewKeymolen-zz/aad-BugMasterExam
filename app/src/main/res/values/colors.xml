@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3949AB</color>
+    <color name="colorPrimaryDark">#283593</color>
+    <color name="colorPrimaryLight">#9FA8DA</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="colorWrong">#F44336</color>
+    <color name="colorCorrect">#4CAF50</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="image_background">#7986CB</color>
+
+    <!-- Danger Value Colors -->
+    <string-array name="dangerColors">
+        <!-- level=1 -->
+        <item>#311b92</item>
+        <!-- level=2 -->
+        <item>#0d47a1</item>
+        <!-- level=3 -->
+        <item>#006064</item>
+        <!-- level=4 -->
+        <item>#33691e</item>
+        <!-- level=5 -->
+        <item>#1b5e20</item>
+        <!-- level=6 -->
+        <item>#004d40</item>
+        <!-- level=7 -->
+        <item>#827717</item>
+        <!-- level=8 -->
+        <item>#999900</item>
+        <!-- level=9 -->
+        <item>#e65100</item>
+        <!-- level=10 -->
+        <item>#bf360c</item>
+    </string-array>
+</resources>

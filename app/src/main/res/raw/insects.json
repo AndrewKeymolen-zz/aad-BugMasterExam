@@ -1,0 +1,179 @@
+{
+  "insects": [
+    {
+      "friendlyName": "Black Widow",
+      "scientificName": "Latrodectus mactans",
+      "classification": "Arachnida",
+      "imageAsset": "spider.png",
+      "dangerLevel": 10
+    },
+    {
+      "friendlyName": "Brown Recluse",
+      "scientificName": "Loxosceles reclusa",
+      "classification": "Arachnida",
+      "imageAsset": "spider.png",
+      "dangerLevel": 10
+    },
+    {
+      "friendlyName": "Honey Bee",
+      "scientificName": "Apis mellifera",
+      "classification": "Hymenoptera",
+      "imageAsset": "bee.png",
+      "dangerLevel": 6
+    },
+    {
+      "friendlyName": "Army Ants",
+      "scientificName": "Dorylus gribodoi",
+      "classification": "Hymenoptera",
+      "imageAsset": "ant.png",
+      "dangerLevel": 8
+    },
+    {
+      "friendlyName": "Ladybug",
+      "scientificName": "Coccinella septempunctata",
+      "classification": "Coleoptera",
+      "imageAsset": "ladybug.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Dog Flea",
+      "scientificName": "Ctenocephalides canis",
+      "classification": "Pterygota",
+      "imageAsset": "tick.png",
+      "dangerLevel": 5
+    },
+    {
+      "friendlyName": "Head Lice",
+      "scientificName": "Pediculus humanus capitis",
+      "classification": "Pterygota",
+      "imageAsset": "louse.png",
+      "dangerLevel": 3
+    },
+    {
+      "friendlyName": "Malaria Mosquito",
+      "scientificName": "Anopheles quadrimaculatus",
+      "classification": "Diptera",
+      "imageAsset": "mosquito.png",
+      "dangerLevel": 7
+    },
+    {
+      "friendlyName": "Wolf Spider",
+      "scientificName": "Lycosa tarantula",
+      "classification": "Arachnida",
+      "imageAsset": "spider.png",
+      "dangerLevel": 6
+    },
+    {
+      "friendlyName": "Brown Scorpion",
+      "scientificName": "Isometrus maculatus",
+      "classification": "Scorpiones",
+      "imageAsset": "scorpion.png",
+      "dangerLevel": 8
+    },
+    {
+      "friendlyName": "Centipede",
+      "scientificName": "Scutigera coleoptrata",
+      "classification": "Chilopoda",
+      "imageAsset": "centipede.png",
+      "dangerLevel": 2
+    },
+    {
+      "friendlyName": "American Cockroach",
+      "scientificName": "Periplaneta americana",
+      "classification": "Pterygota",
+      "imageAsset": "cockroach.png",
+      "dangerLevel": 3
+    },
+    {
+      "friendlyName": "Fruit Fly",
+      "scientificName": "Ceratitis capitata",
+      "classification": "Diptera",
+      "imageAsset": "fly.png",
+      "dangerLevel": 2
+    },
+    {
+      "friendlyName": "Yellow Jacket",
+      "scientificName": "Vespula squamosa",
+      "classification": "Hymenoptera",
+      "imageAsset": "bee.png",
+      "dangerLevel": 7
+    },
+    {
+      "friendlyName": "Drywood Termites",
+      "scientificName": "Incisitermes minor",
+      "classification": "Pterygota",
+      "imageAsset": "tick.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Monarch Butterfly",
+      "scientificName": "Danaus plexippus",
+      "classification": "Lepidoptera",
+      "imageAsset": "butterfly.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Dung Beetle",
+      "scientificName": "Digitonthophagus gazella",
+      "classification": "Coleoptera",
+      "imageAsset": "beetle.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Tsetse Fly",
+      "scientificName": "Glossina palpalis gambiensis",
+      "classification": "Diptera",
+      "imageAsset": "fly.png",
+      "dangerLevel": 10
+    },
+    {
+      "friendlyName": "Praying Mantis",
+      "scientificName": "Mantis religiosa",
+      "classification": "Pterygota",
+      "imageAsset": "mantis.png",
+      "dangerLevel": 2
+    },
+    {
+      "friendlyName": "Black Earwig",
+      "scientificName": "Chelisoches morio",
+      "classification": "Dermaptera",
+      "imageAsset": "tick.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "House Fly",
+      "scientificName": "Musca domestica",
+      "classification": "Diptera",
+      "imageAsset": "fly.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Bed Bugs",
+      "scientificName": "Cimex lectularius",
+      "classification": "Hemiptera",
+      "imageAsset": "louse.png",
+      "dangerLevel": 2
+    },
+    {
+      "friendlyName": "Carpenter Ants",
+      "scientificName": "Camponotus pennsylvanicus",
+      "classification": "Hymenoptera",
+      "imageAsset": "ant.png",
+      "dangerLevel": 3
+    },
+    {
+      "friendlyName": "Field Cricket",
+      "scientificName": "Gryllus texensis",
+      "classification": "Orthoptera",
+      "imageAsset": "cricket.png",
+      "dangerLevel": 1
+    },
+    {
+      "friendlyName": "Carpet Moth",
+      "scientificName": "Trichophaga tapetzella",
+      "classification": "Lepidoptera",
+      "imageAsset": "butterfly.png",
+      "dangerLevel": 1
+    }
+  ]
+}
